@@ -1,0 +1,6 @@
+This is the Capstone Project for the Data Science IBM Course.
+
+import pandas as pd
+import numpy as np
+
+print('Hello Capstone Project Course!')
